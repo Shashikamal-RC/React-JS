@@ -1,0 +1,48 @@
+1) What is React JS?
+        Open source library.
+        Reusebility.
+        Fast reloading
+        Optimization
+        light weight
+        injuctability , it will support any type of backend
+
+2) Hooks :- to get rid of redux
+
+
+Jargons of rect JS:-
+
+virtual DOM :-
+  component reloading
+
+Props and states:-
+
+component:-
+  class based ( much more powerful)
+  functional
+
+Hooks:-
+
+Tools needed:-
+ node JS
+ react js
+
+steps to create react js app
+  sudo npm i create-react-app
+  sudo npx create-react-app app_name
+
+npm start
+    Starts the development server.
+
+npm run build
+    Bundles the app into static files for production.
+
+npm test
+    Starts the test runner.
+
+npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+  We suggest that you begin by typing:
+    cd todo_app
+    npm start
